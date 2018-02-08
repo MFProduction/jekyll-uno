@@ -1,0 +1,13 @@
+---
+title:  "I also don't write blog posts."
+date:   2018-02-08 03:14:59
+categories: [blog]
+tags: [about]
+---
+But here are some nice code snippets:
+Write a hello world script widout using letters: i, w, l, o; and no number
+``` bash
+#!/bin/bash
+st=".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
+echo $st
+```

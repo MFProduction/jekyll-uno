@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+title: Matej Ferenc
+description: 'As you can see i am not front-end developer'
+url: 'http://ferenc.si'
+#baseurl: '/'
+google_analytics: 'UA-35391070-13'
+#disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Matej Ferenc'
+  email: ferenc.matej@gmail.com
+  #twitter_username: mferenc
+  facebook_username: mferenc
+  github_username:  MFProduction
+  linkedin_username:  matejferenc91
 
 defaults:
   -

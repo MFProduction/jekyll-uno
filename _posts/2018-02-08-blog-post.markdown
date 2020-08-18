@@ -5,9 +5,8 @@ categories: [blog]
 tags: [about]
 ---
 But here are some nice code snippets:
-Write a hello world script widout using letters: i, w, l, o; and no number
-``` bash
-#!/bin/bash
-st=".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
-echo $st
+Write a hello world script without using letters: i, w, l, o; and no number
+``` ruby
+st = ".... . .-.. .-.. --- / .-- --- .-. .-.. -.."
+puts st
 ```
